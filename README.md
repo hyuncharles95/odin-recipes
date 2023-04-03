@@ -1,0 +1,2 @@
+This is the first project that I will start that will utilize HTML. We created a website that consist of a main index page which will have links to a few recipes. 
+As this the first website that I will have created, it will not look pretty, but it is to help improve my skills in HTML. 
